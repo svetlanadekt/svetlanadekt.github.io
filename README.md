@@ -1,2 +1,2 @@
 # svetlanadekt.github.io
-Education project
+Education project 'Uber' on Udemy
